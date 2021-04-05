@@ -174,7 +174,7 @@ p{
 
 /* --------------- Site title ---------------- */
 main .site-title{
-    background: url('../assets/Background-image.png');
+    background: url('https://1.bp.blogspot.com/-MKoT2jIMT3g/YGpUFXNHgPI/AAAAAAAAAhA/7zHcMfAvmhYyd9YIemUnP95hoLF9yse7ACLcBGAsYHQ/s1366/Background-image.png');
     background-size: cover;
     height: 110vh;
     display: flex;
@@ -207,7 +207,7 @@ main .site-title .btn:hover{
 /* --------------- Blog Carousel ------------ */
 
 main .blog{
-    background: url('../assets/Abract01.png');
+    background: url('https://1.bp.blogspot.com/-yfnH1-oBSco/YGpUFJZhLdI/AAAAAAAAAg4/Dn_oTywHJjQqvwx6d168zW31MjlPQAmogCLcBGAsYHQ/s781/Abract01.png');
     background-repeat: no-repeat;
     background-position: right;
     height: 100vh;
