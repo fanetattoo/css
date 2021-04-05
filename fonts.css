@@ -2,29 +2,29 @@
 /*  font-family: Abel  */
 @font-face {
     font-family: Abel;
-    src: url('https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Ffonts%2FAbel%2FAbel-Regular.ttf?alt=media&token=4f8892eb-5b07-41db-b9ec-8891adc05750');
+    src: url('https://raw.githubusercontent.com/fanetattoo/Abel/main/Abel-Regular.ttf');
 }
 
 /*  font-family: Anton  */
 @font-face {
     font-family: Anton;
-    src: url('https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Ffonts%2FAnton%2FAnton-Regular.ttf?alt=media&token=5f21c7d1-fed0-4a06-bde5-002f55a7be27');
+    src: url('https://raw.githubusercontent.com/fanetattoo/Anton/main/Anton-Regular.ttf');
 }
 
 /*  font-family: Josefin  */
 @font-face {
     font-family: Josefin;
-    src: url('.https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Ffonts%2FJosefin_Sans%2FJosefinSans-Regular.ttf?alt=media&token=6b0013ee-e6fd-4ae7-9012-436eaa57c978');
+    src: url('https://raw.githubusercontent.com/fanetattoo/Josefin_Sans/main/JosefinSans-Regular.ttf');
 }
 
 /*  font-family: Lexend  */
 @font-face {
     font-family: Lexend;
-    src: url('https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Ffonts%2FLexend_Deca%2FLexendDeca-Regular.ttf?alt=media&token=998170e0-46a1-4ef1-b917-26204f302f62');
+    src: url('https://raw.githubusercontent.com/fanetattoo/Lexend/main/LexendDeca-Regular.ttf');
 }
 
 /*  font-family: Livvic  */
 @font-face {
     font-family: Livvic;
-    src: url('https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Ffonts%2FLivvic%2FLivvic-Regular.ttf?alt=media&token=0f4bd738-a336-4f76-9c8c-51ac0b39ab26');
+    src: url('https://raw.githubusercontent.com/fanetattoo/Livvic/main/Livvic-Regular.ttf');
 }
