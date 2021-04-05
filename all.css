@@ -4366,8 +4366,8 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: normal;
   font-display: auto;
-  src: url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-brands-400.eot?alt=media&token=5a2a0466-706c-4b2c-9dab-3191e2b6b98a");
-  src: url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-brands-400.eot?alt=media&token=5a2a0466-706c-4b2c-9dab-3191e2b6b98a?#iefix") format("embedded-opentype"), url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-brands-400.woff2?alt=media&token=6da06090-839a-4088-a1bd-bebdeaca7f86") format("woff2"), url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-brands-400.woff?alt=media&token=75046b3c-ec99-494b-9a12-30aec740838f2") format("woff"), url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-brands-400.ttf?alt=media&token=ccf908ff-f67c-4b7b-8ecf-25cf7ce50b2a") format("truetype"), url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-brands-400.svg?alt=media&token=e10c58b4-873b-401d-a08a-8e6cf9437b8b#fontawesome") format("svg"); }
+  src: url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-brands-400.eot");
+  src: url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-brands-400.eot?#iefix") format("embedded-opentype"), url(https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-brands-400.woff2") format("woff2"), url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-brands-400.woff") format("woff"), url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-brands-400.ttf") format("truetype"), url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-brands-400.svg#fontawesome") format("svg"); }
 
 .fab {
   font-family: 'Font Awesome 5 Brands'; }
@@ -4376,8 +4376,8 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 400;
   font-display: auto;
-  src: url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-regular-400.eot?alt=media&token=0ad15578-2c7e-4ea0-a200-842c8038eac5");
-  src: url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-regular-400.eot?alt=media&token=0ad15578-2c7e-4ea0-a200-842c8038eac5?#iefix") format("embedded-opentype"), url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-regular-400.woff2?alt=media&token=5dd5e066-7305-4cc1-8bbd-63bf86e625b3") format("woff2"), url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-regular-400.woff?alt=media&token=b3d50626-2a51-4544-a088-ed056bafff31") format("woff"), url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-regular-400.ttf?alt=media&token=663805ca-3027-4c18-9249-a21fbb0faa1d") format("truetype"), url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-regular-400.svg?alt=media&token=10e613d6-d244-4124-a238-0babbc95c3d3#fontawesome") format("svg"); }
+  src: url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-regular-400.eot");
+  src: url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-regular-400.eot?#iefix") format("embedded-opentype"), url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-regular-400.woff2") format("woff2"), url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-regular-400.woff") format("woff"), url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-regular-400.ttf") format("truetype"), url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-regular-400.svg#fontawesome") format("svg"); }
 
 .far {
   font-family: 'Font Awesome 5 Free';
@@ -4387,8 +4387,8 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 900;
   font-display: auto;
-  src: url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-solid-900.eot?alt=media&token=a2e98da8-2a12-4bb6-8e42-7de09cce3b5f");
-  src: url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-solid-900.eot?alt=media&token=a2e98da8-2a12-4bb6-8e42-7de09cce3b5f?#iefix") format("embedded-opentype"), url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-solid-900.woff2?alt=media&token=4531bbc3-f539-4fe5-bb27-25646a06eaa7") format("woff2"), url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-solid-900.woff?alt=media&token=6d59dd3a-c68f-4417-9f4d-bad93306f90b") format("woff"), url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-solid-900.ttf?alt=media&token=f920aee8-6c60-4133-af0c-21b4149d38e3") format("truetype"), url("https://firebasestorage.googleapis.com/v0/b/vidrache.appspot.com/o/LIFE%20CHOICES%2Fwebfonts%2Ffa-solid-900.svg?alt=media&token=fde2233c-4331-4be5-a3de-6207fb8bc818#fontawesome") format("svg"); }
+  src: url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-solid-900.eot");
+  src: url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-solid-900.eot?#iefix") format("embedded-opentype"), url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-solid-900.woff2") format("woff2"), url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-solid-900.woff") format("woff"), url("../webfonts/fa-solid-900.ttf") format("truetype"), url("https://raw.githubusercontent.com/fanetattoo/webfonts/main/fa-solid-900.svg#fontawesome") format("svg"); }
 
 .fa,
 .fas {
